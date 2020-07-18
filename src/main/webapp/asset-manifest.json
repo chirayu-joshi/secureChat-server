@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/secure-chat-java/static/css/main.ef8665da.chunk.css",
+    "main.js": "/secure-chat-java/static/js/main.7fe196cb.chunk.js",
+    "main.js.map": "/secure-chat-java/static/js/main.7fe196cb.chunk.js.map",
+    "runtime-main.js": "/secure-chat-java/static/js/runtime-main.45e321c5.js",
+    "runtime-main.js.map": "/secure-chat-java/static/js/runtime-main.45e321c5.js.map",
+    "static/js/2.53533bfb.chunk.js": "/secure-chat-java/static/js/2.53533bfb.chunk.js",
+    "static/js/2.53533bfb.chunk.js.map": "/secure-chat-java/static/js/2.53533bfb.chunk.js.map",
+    "index.html": "/secure-chat-java/index.html",
+    "precache-manifest.2a031a3f0632c2dd4ac6684535c3b795.js": "/secure-chat-java/precache-manifest.2a031a3f0632c2dd4ac6684535c3b795.js",
+    "service-worker.js": "/secure-chat-java/service-worker.js",
+    "static/css/main.ef8665da.chunk.css.map": "/secure-chat-java/static/css/main.ef8665da.chunk.css.map",
+    "static/js/2.53533bfb.chunk.js.LICENSE.txt": "/secure-chat-java/static/js/2.53533bfb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45e321c5.js",
+    "static/js/2.53533bfb.chunk.js",
+    "static/css/main.ef8665da.chunk.css",
+    "static/js/main.7fe196cb.chunk.js"
+  ]
+}
